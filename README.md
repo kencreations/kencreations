@@ -3,6 +3,10 @@
 I'm <strong>Ken Jovenie Samonte</strong> — a passionate <code>Web Developer</code>, <code>IoT Builder</code>, and <code>Academic Project Consultant</code> from the Philippines 🇵🇭<br/>
 I love building smart systems, solving real-world problems through code, and helping students with research and capstone projects. 💻✨
 </p>
+
+###
+---
+
 ###
 
 <div align="center">
