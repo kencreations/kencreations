@@ -1,11 +1,8 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-<p align="center">
-I'm <strong>Ken Jovenie Samonte</strong> — a passionate <code>Web Developer</code>, <code>IoT Builder</code>, and <code>Academic Project Consultant</code> from the Philippines 🇵🇭<br/>
-I love building smart systems, solving real-world problems through code, and helping students with research and capstone projects. 💻✨
-</p>
+<h1 align="left">Hey 👋What's Up?</h1>
 
 ###
----
+
+<p align="left">I'm <strong>Ken Jovenie Samonte</strong> — a passionate <code>Web Developer</code>, <code>IoT Builder</code>, and <code>Academic Project Consultant</code> from the Philippines 🇵🇭<br/><br>I love building smart systems, solving real-world problems through code, and helping students with research and capstone projects. 💻✨</p>
 
 ###
 
@@ -82,6 +79,7 @@ I love building smart systems, solving real-world problems through code, and hel
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kencreations/kencreations/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kencreations/kencreations/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kencreations/kencreations/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
